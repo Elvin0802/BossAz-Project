@@ -1,0 +1,67 @@
+[
+  {
+    "Cv": {
+      "Specialty": "Speciality",
+      "School": "School 232",
+      "UniEntryMark": 333.0,
+      "Skills": "My It C#",
+      "Companies": "It step, azercell , abb , pasha bank , digital it",
+      "Languages": [
+        {
+          "language": "Turkish",
+          "Level": "B2"
+        }
+      ],
+      "IsHonorsDiploma": true,
+      "LinkOfGitHub": "link github 1",
+      "LinkOfLinkedIn": "link linkedin1"
+    },
+    "Id": "834fe102-a5dd-425c-9640-3bf7239b6779",
+    "Name": "Babek",
+    "Surname": "Qasimov",
+    "City": "Tovuz",
+    "Phone": "077 555 22 01",
+    "BirthDate": "2007-07-15",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Babek@123",
+    "Notifications": [
+      {
+        "Id": "10fdea88-da64-418d-8bf8-1c0bd46f3f86",
+        "SendDate": "2024-03-31T21:31:35.9984852+04:00",
+        "Message": "\n\t\tBabek Size , sizi ishe goturmek uchun muraciet edib.\n\n\t\tIshe Goturen Haqqinda\n\tId : 834fe102-a5dd-425c-9640-3bf7239b6779 / Name : Babek / Surname : Qasimov / Gender : Male / City : Tovuz / Phone : 077 555 22 01 / Birth Date : 15/07/2007 / Email : elvincode1517@gmail.com\n--- Cv ---\nSpecialty : Speciality\nSchool : School 232 | Uni Entry Mark : 333\nSkills : My It C#\nCompanies : It step, azercell , abb , pasha bank , digital it | Is Have Honors Diploma : True\nGitHub Link : link github 1 | LinkedIn Link : link linkedin1\n\n\n"
+      },
+      {
+        "Id": "6b8d19ef-2850-4554-9129-010a26e69fab",
+        "SendDate": "2024-03-31T23:24:11.2831135+04:00",
+        "Message": "\n\t\tBabek Size , sizi ishe goturmek uchun muraciet edib.\n\n\t\tIshe Goturen Haqqinda\n\tId : 834fe102-a5dd-425c-9640-3bf7239b6779 / Name : Babek / Surname : Qasimov / Gender : Male / City : Tovuz / Phone : 077 555 22 01 / Birth Date : 15.07.2007 / Email : elvincode1517@gmail.com\n--- Cv ---\nSpecialty : Speciality\n\t\tSchool : School 232 | Uni Entry Mark : 333\n\t\tSkills : My It C#\n\t\tCompanies : It step, azercell , abb , pasha bank , digital it | Is Have Honors Diploma : Yes\n\t\tGitHub Link : link github 1 | LinkedIn Link : link linkedin1\n\t\tLanguages known.\t\tTurkish - B2\n\n\n"
+      }
+    ]
+  },
+  {
+    "Cv": null,
+    "Id": "b796d37c-ef79-4a5d-8b13-8af57a60f737",
+    "Name": "Hasan",
+    "Surname": "Uzun",
+    "City": "Tebriz",
+    "Phone": "099 888 44 33",
+    "BirthDate": "1998-12-01",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Hasan1.1",
+    "Notifications": []
+  },
+  {
+    "Cv": null,
+    "Id": "98556514-53a2-4428-94d7-65c0e073cb71",
+    "Name": "Ibrahim",
+    "Surname": "Talibli",
+    "City": "Baku",
+    "Phone": "099 222 22 22",
+    "BirthDate": "2000-12-03",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Ibo@123",
+    "Notifications": []
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "Vacancies": [
+      {
+        "VacancieId": "0f0bee36-e7c5-40c2-a198-fb6a7eb55c7c",
+        "CompanyName": "LVN Tech Corp.",
+        "Position": "CEO",
+        "Location": "Baku,Surakhani",
+        "JobCategory": "IT Manager",
+        "JobType": "Fulltime",
+        "JobDescription": "ceo luq",
+        "Requirements": "her sey",
+        "Advantages": "yuksek",
+        "MinSalary": 2500.0,
+        "MaxSalary": 4500.0,
+        "ShareDate": "2024-03-29T22:00:43.751931+04:00",
+        "EndingDate": "2024-04-28T22:00:43.7519354+04:00",
+        "RelevantPerson": "Elvin",
+        "MinExpYear": 3,
+        "MaxExpYear": 7,
+        "PhoneNum": "055 444 99 11",
+        "Email": "elvincode1517@gmail.com",
+        "MinAge": 29,
+        "MaxAge": 41,
+        "ViewCount": 6,
+        "IsConfirmed": true
+      }
+    ],
+    "Id": "17a685bb-643f-4330-ba30-5a823bb7c183",
+    "Name": "Elvin",
+    "Surname": "Siracli",
+    "City": "Zaqatala",
+    "Phone": "010 222 12 12",
+    "BirthDate": "2008-11-02",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Elvin@123",
+    "Notifications": [
+      {
+        "Id": "2df60498-4c94-4515-8e59-de03c43c1bb2",
+        "SendDate": "2024-03-29T22:03:04.458606+04:00",
+        "Message": "\n\t\tBabek Sizin vakansiyaya muraciet edib.\n\t Vakansiyanin IDsi : 15d5b798-037c-48a3-b90f-654bb48f198f\n\n\t\tIshchi Haqqinda\n\tId : 834fe102-a5dd-425c-9640-3bf7239b6779 / Name : Babek / Surname : Qasimov / Gender : Male / City : Tovuz / Phone : 077 555 22 01 / Birth Date : 15.07.2007 / Email : elvincode1517@gmail.com\n--- Cv ---\nSpecialty : Speciality | School : School 232 | Uni Entry Mark : 333 | Skills : My It C# | Companies : It step, azercell , abb , pasha bank , digital it | Is Have Honors Diploma : True | GitHub Link : link github 1 | LinkedIn Link : link linkedin1\n\n\n"
+      },
+      {
+        "Id": "0f65cfa5-e695-4bf2-a43c-afef1206769f",
+        "SendDate": "2024-03-29T22:03:07.0080336+04:00",
+        "Message": "\n\t\tBabek Sizin vakansiyaya muraciet edib.\n\t Vakansiyanin IDsi : 15d5b798-037c-48a3-b90f-654bb48f198f\n\n\t\tIshchi Haqqinda\n\tId : 834fe102-a5dd-425c-9640-3bf7239b6779 / Name : Babek / Surname : Qasimov / Gender : Male / City : Tovuz / Phone : 077 555 22 01 / Birth Date : 15.07.2007 / Email : elvincode1517@gmail.com\n--- Cv ---\nSpecialty : Speciality | School : School 232 | Uni Entry Mark : 333 | Skills : My It C# | Companies : It step, azercell , abb , pasha bank , digital it | Is Have Honors Diploma : True | GitHub Link : link github 1 | LinkedIn Link : link linkedin1\n\n\n"
+      },
+      {
+        "Id": "da94df64-527e-4664-a4db-9f879ceb4de5",
+        "SendDate": "2024-03-31T14:34:19.1052061+04:00",
+        "Message": "\n\t\tIbrahim Sizin vakansiyaya muraciet edib.\n\t Vakansiyanin IDsi : 07cf0763-86aa-466c-8c68-6b1ab2570f49\n\n\t\tIshchi Haqqinda\n\tId : 98556514-53a2-4428-94d7-65c0e073cb71 / Name : Ibrahim / Surname : Talibli / Gender : Male / City : Baku / Phone : 099 222 22 22 / Birth Date : 03/12/2000 / Email : elvincode1517@gmail.com\n--- Cv ---\n\n\n"
+      },
+      {
+        "Id": "7a6561f4-735b-485e-8e5c-abb59d1927ad",
+        "SendDate": "2024-03-31T21:32:14.0552436+04:00",
+        "Message": "\n\t\tIbrahim Sizin vakansiyaya muraciet edib.\n\t Vakansiyanin IDsi : 15d5b798-037c-48a3-b90f-654bb48f198f\n\n\t\tIshchi Haqqinda\n\tId : 98556514-53a2-4428-94d7-65c0e073cb71 / Name : Ibrahim / Surname : Talibli / Gender : Male / City : Baku / Phone : 099 222 22 22 / Birth Date : 03/12/2000 / Email : elvincode1517@gmail.com\n--- Cv ---\n\n\n"
+      }
+    ]
+  },
+  {
+    "Vacancies": [
+      {
+        "VacancieId": "2de6365c-9afd-4328-999f-ffde43855cf7",
+        "CompanyName": "LVN Tech Corp.",
+        "Position": "CEO",
+        "Location": "Baku,Surakhani",
+        "JobCategory": "IT Manager",
+        "JobType": "Fulltime",
+        "JobDescription": "ceo luq",
+        "Requirements": "her sey",
+        "Advantages": "yuksek",
+        "MinSalary": 2500.0,
+        "MaxSalary": 4500.0,
+        "ShareDate": "2024-03-29T22:00:43.751931+04:00",
+        "EndingDate": "2024-04-28T22:00:43.7519354+04:00",
+        "RelevantPerson": "Elvin",
+        "MinExpYear": 3,
+        "MaxExpYear": 7,
+        "PhoneNum": "055 444 99 11",
+        "Email": "elvincode1517@gmail.com",
+        "MinAge": 29,
+        "MaxAge": 41,
+        "ViewCount": 6,
+        "IsConfirmed": true
+      },
+      {
+        "VacancieId": "67696320-3a10-4cf1-8c37-5518f97f3268",
+        "CompanyName": "LVN Tech Corp.",
+        "Position": "CEO",
+        "Location": "Baku,Surakhani",
+        "JobCategory": "IT Manager",
+        "JobType": "Fulltime",
+        "JobDescription": "ceo luq",
+        "Requirements": "her sey",
+        "Advantages": "yuksek",
+        "MinSalary": 2500.0,
+        "MaxSalary": 4500.0,
+        "ShareDate": "2024-03-29T22:00:43.751931+04:00",
+        "EndingDate": "2024-04-28T22:00:43.7519354+04:00",
+        "RelevantPerson": "Elvin",
+        "MinExpYear": 3,
+        "MaxExpYear": 7,
+        "PhoneNum": "055 444 99 11",
+        "Email": "elvincode1517@gmail.com",
+        "MinAge": 29,
+        "MaxAge": 41,
+        "ViewCount": 6,
+        "IsConfirmed": true
+      }
+    ],
+    "Id": "84f659e4-b40f-47a2-b6c3-ad5dc31b5591",
+    "Name": "Aydan",
+    "Surname": "Aliyeva",
+    "City": "Gabala",
+    "Phone": "077 655 10 80",
+    "BirthDate": "1997-12-06",
+    "Gender": false,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Elvin@1234",
+    "Notifications": []
+  },
+  {
+    "Vacancies": [],
+    "Id": "9462d6fc-db91-4ecc-8274-8a0ec1459935",
+    "Name": "Yagmur",
+    "Surname": "Deniz",
+    "City": "Ankara",
+    "Phone": "055 212 01 92",
+    "BirthDate": "1998-01-21",
+    "Gender": false,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Yagmur@123",
+    "Notifications": []
+  },
+  {
+    "Vacancies": [],
+    "Id": "9722733f-de90-423a-8ece-e66a1a190bc6",
+    "Name": "Yatan",
+    "Surname": "Duran",
+    "City": "Kalkan",
+    "Phone": "099 777 55 44",
+    "BirthDate": "1999-11-09",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Yatan@123",
+    "Notifications": []
+  },
+  {
+    "Vacancies": [],
+    "Id": "fce7ba56-8b3b-462e-9002-c84f0d7685b2",
+    "Name": "Edsadasdas",
+    "Surname": "Efaddfasdfasdas",
+    "City": "Edsafasf",
+    "Phone": "010 222 33 44",
+    "BirthDate": "1999-12-01",
+    "Gender": true,
+    "Email": "elvincode1517@gmail.com",
+    "Password": "Rete12@",
+    "Notifications": []
+  }
+]
